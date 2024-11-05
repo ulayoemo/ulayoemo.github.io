@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ulayoemo.github.io/ZfM/sitemap_index.txt
+Sitemap: https://ulayoemo.github.io/dRU/sitemap_index.txt
+Sitemap: https://ulayoemo.github.io/eUb/sitemap_index.txt
+Sitemap: https://ulayoemo.github.io/rOI/sitemap_index.txt
